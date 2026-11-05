@@ -84,8 +84,8 @@ Projects built for the Hacker House Goa 2026 hackathon.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShriyaP1966&show_icons=true&hide_border=true&count_private=false" alt="Shriya's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriyaP1966&layout=compact&hide_border=true" alt="Shriya's top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShriyaP1966&theme=github_dark" alt="Shriya's GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShriyaP1966&theme=github_dark" alt="Shriya's top languages" />
 
 </div>
 
