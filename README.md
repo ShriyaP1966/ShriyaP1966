@@ -46,6 +46,7 @@ Projects built for the Hacker House Goa 2026 hackathon.
 | [**CampusAI**](https://github.com/ShriyaP1966/CampusAI-NLP-Chatbot) | A university-information chatbot using text preprocessing, TF-IDF, Logistic Regression intent classification (72% accuracy), rule-based NER and knowledge-base retrieval, served through Streamlit. ([Live demo](https://campusai-nlp-chatbot-v1.streamlit.app/)) |
 | [**ML Fraud Detection**](https://github.com/ShriyaP1966/ML-Fraud-Detection-Optimization) | A comparative analysis of classical ML models for financial fraud detection across two imbalanced transaction datasets, covering preprocessing, outlier analysis, model evaluation and cross-dataset comparison. Jupyter Notebook. |
 | [**CareerPilot AI**](https://github.com/ShriyaP1966/CareerPilot-AI) | A resume-analysis platform built with Flask and the Gemini API. It reads PDF and DOCX resumes and produces ATS and role-match scores, skill gaps, interview-readiness feedback and recommendations for a target role. |
+| [**Sepolia Sentiment API**](https://github.com/ShriyaP1966/sepolia-sentiment-api) | A FastAPI sentiment-analysis REST API built on VADER that can optionally record each result on the Ethereum Sepolia testnet through a Solidity smart contract. Blockchain writes are API-key protected and rate limited. Includes a pytest suite, GitHub Actions CI and a Docker setup (v1.0.0). |
 
 ---
 
@@ -63,7 +64,6 @@ Projects built for the Hacker House Goa 2026 hackathon.
 
 | Project | Description |
 |---|---|
-| [**HHGOA_p2**](https://github.com/ShriyaP1966/HHGOA_p2) | A FastAPI sentiment-analysis REST API connected to a Solidity smart contract on the Ethereum Sepolia testnet, which can optionally store results on-chain. Sentiment is classified with a rule-based word list; it is a prototype and does not use a trained ML model. |
 | [**chatbot-project**](https://github.com/ShriyaP1966/chatbot-project) | A simple rule-based chatbot with a chat UI and session memory, built with Python and Streamlit. |
 | [**DecisionTree-Classifier**](https://github.com/ShriyaP1966/DecisionTree-Classifier) | A Python decision-tree classifier project. |
 | [**resume-analyzer**](https://github.com/ShriyaP1966/resume-analyzer) | A Python resume-analysis project. |
@@ -73,7 +73,7 @@ Projects built for the Hacker House Goa 2026 hackathon.
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, TypeScript, JavaScript, Solidity, HTML, CSS
-- **AI / ML:** scikit-learn, pandas, TF-IDF / Logistic Regression, LangGraph, Google Gemini API, Jupyter
+- **AI / ML:** scikit-learn, pandas, TF-IDF / Logistic Regression, VADER, LangGraph, Google Gemini API, Jupyter
 - **Graph & Blockchain:** TigerGraph (GSQL, pyTigerGraph), Hardhat, Web3.py, Ethereum Sepolia testnet
 - **Backend:** FastAPI, Flask, SQLite
 - **Frontend & Apps:** React, Next.js, Vite, Tailwind CSS, Streamlit
