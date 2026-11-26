@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Shriya Patil: AI and ML developer. Rotating project showcase: VIGIL, Multilingual LLM Safety Benchmark, ModelForge, Sepolia Sentiment API, ISL Command Recognition" width="100%"/>
+<img src="assets/hero.svg" alt="Shriya Patil: AI and ML developer. Rotating project showcase: VIGIL, Multilingual LLM Safety Benchmark, ModelForge, Sepolia Sentiment API" width="100%"/>
 
 <br/>
 
@@ -24,7 +24,6 @@
   <a href="https://github.com/ShriyaP1966/ModelForge"><img src="assets/card-modelforge.svg" width="49%" alt="ModelForge"/></a>
   <a href="https://github.com/ShriyaP1966/STAKEOUT_HHGOA"><img src="assets/card-stakeout.svg" width="49%" alt="STAKEOUT: scam oracle for crypto wallets"/></a>
   <a href="https://github.com/ShriyaP1966/sepolia-sentiment-api"><img src="assets/card-sepolia.svg" width="49%" alt="Sepolia Sentiment API"/></a>
-  <a href="https://github.com/nazifa-ai/Real-Time-ISL-Command-Recognition"><img src="assets/card-isl.svg" width="49%" alt="Real-Time ISL Command Recognition"/></a>
 </p>
 
 <br/>
