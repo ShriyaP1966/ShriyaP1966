@@ -29,17 +29,6 @@
   <a href="https://github.com/ShriyaP1966/CampusAI-NLP-Chatbot"><img src="assets/card-campusai.svg" width="49%" alt="CampusAI"/></a>
 </p>
 
-<div align="center">
-
-**Try them live**&nbsp;&nbsp;
-[VIGIL](https://vigil-demo-eta.vercel.app) &nbsp;·&nbsp;
-[ModelForge](https://modelforge-frontend-sgbp.onrender.com) &nbsp;·&nbsp;
-[CampusAI](https://campusai-nlp-chatbot-v1.streamlit.app/) &nbsp;·&nbsp;
-[Ghost Hunter](https://shriyap1966.github.io/GhostHunter-Game/) &nbsp;·&nbsp;
-[Exploring Goa](https://exploring-goa-game.vercel.app/)
-
-</div>
-
 <br/>
 
 <img src="assets/h-more.svg" alt="03 More builds and experiments" width="100%"/>
