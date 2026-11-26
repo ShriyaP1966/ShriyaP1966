@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="74" viewBox="0 0 1000 74" role="img"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></linearGradient></defs><style>text{font-family:Inter,'Segoe UI','Noto Sans Devanagari','Nirmala UI',Helvetica,Arial,sans-serif} .m{font-family:'Fira Code','JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace}.bl{animation:b 2.4s ease-in-out infinite}@keyframes b{50%{opacity:.35}}</style>
     <text class="m" x="4" y="30" font-size="14" fill="#fbbf24" letter-spacing="2">04 / stack</text>
-    <text x="2" y="62" font-size="32" font-weight="800" fill="#e6edf7" letter-spacing="-.5">Toolkit</text>
+    <text x="2" y="62" font-size="32" font-weight="800" fill="#e6edf7" letter-spacing="-.5">What I build with</text>
     <rect x="0" y="70" width="1000" height="2" rx="1" fill="url(#g)" opacity=".7"/>
     <circle class="bl" cx="990" cy="30" r="5" fill="#fbbf24"/></svg>
