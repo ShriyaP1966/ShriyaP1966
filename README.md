@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/ShriyaP1966/sepolia-sentiment-api"><img src="assets/m-sepolia.svg" width="32%" alt="Sepolia Sentiment API"/></a>
-  <a href="https://shriyap1966.github.io/GhostHunter-Game/"><img src="assets/m-ghost.svg" width="32%" alt="Ghost Hunter: play it"/></a>
+  <a href="https://github.com/ShriyaP1966/ML-Fraud-Detection-Optimization"><img src="assets/m-mlfraud.svg" width="32%" alt="ML Fraud Detection"/></a>
   <a href="https://exploring-goa-game.vercel.app/"><img src="assets/m-goa.svg" width="32%" alt="Exploring Goa: play it"/></a>
 </p>
 
