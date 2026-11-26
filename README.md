@@ -1,105 +1,80 @@
 <div align="center">
 
-# Hi, I'm Shriya Patil 👋
+<img src="assets/hero.svg" alt="Shriya Patil: AI and ML developer. Rotating project showcase: VIGIL, Multilingual LLM Safety Benchmark, ModelForge, Agentic Fraud Investigation" width="100%"/>
 
-<a href="https://github.com/ShriyaP1966">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Developer;Exploring+AI+%C3%97+Blockchain;Building+Graph+Intelligence+Systems;Researching+Multilingual+LLM+Safety" alt="Typing animation: AI & Machine Learning Developer, Exploring AI × Blockchain, Building Graph Intelligence Systems, Researching Multilingual LLM Safety" />
-</a>
+<br/>
+
+<a href="mailto:shriyapatil1966@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shriyapatil1966%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e1a" alt="Email"/></a>
+<a href="https://github.com/ShriyaP1966?tab=followers"><img src="https://img.shields.io/github/followers/ShriyaP1966?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=a78bfa&labelColor=0a0e1a" alt="GitHub followers"/></a>
+<a href="https://github.com/ShriyaP1966?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%C2%B7%20RESEARCH-f472b6?style=for-the-badge&labelColor=0a0e1a" alt="Open to internships and research"/></a>
 
 </div>
 
-I build machine-learning and AI projects, from classical ML analysis and NLP chatbots to LLM safety evaluation, graph-based fraud investigation and blockchain-integrated prototypes. This profile collects my hackathon work, research and side projects.
+<br/>
+
+<img src="assets/h-now.svg" alt="01 Right now" width="100%"/>
+
+<img src="assets/now.svg" alt="now.yaml: focus on NLP, LLMs and AI safety evaluation; studying B.Sc. AI at University of Mumbai; open to internships, research and hackathon teams" width="100%"/>
+
+<br/><br/>
+
+<img src="assets/h-work.svg" alt="02 Featured work" width="100%"/>
+
+<p align="center">
+  <a href="https://github.com/ShriyaP1966/vigil"><img src="assets/card-vigil.svg" width="49%" alt="VIGIL: explainable scam-report linking"/></a>
+  <a href="https://github.com/ShriyaP1966/multilingual-llm-safety-benchmark"><img src="assets/card-safety.svg" width="49%" alt="Multilingual LLM Safety Benchmark"/></a>
+  <a href="https://github.com/ShriyaP1966/ModelForge"><img src="assets/card-modelforge.svg" width="49%" alt="ModelForge"/></a>
+  <a href="https://github.com/ShriyaP1966/TigerGraph-task"><img src="assets/card-tigergraph.svg" width="49%" alt="Agentic Fraud Investigation on TigerGraph"/></a>
+  <a href="https://github.com/ShriyaP1966/STAKEOUT_HHGOA"><img src="assets/card-stakeout.svg" width="49%" alt="STAKEOUT"/></a>
+  <a href="https://github.com/ShriyaP1966/CampusAI-NLP-Chatbot"><img src="assets/card-campusai.svg" width="49%" alt="CampusAI"/></a>
+</p>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TigerGraph](https://img.shields.io/badge/TigerGraph-F47B20?style=flat-square)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+**Try them live**&nbsp;&nbsp;
+[VIGIL](https://vigil-demo-eta.vercel.app) &nbsp;·&nbsp;
+[ModelForge](https://modelforge-frontend-sgbp.onrender.com) &nbsp;·&nbsp;
+[CampusAI](https://campusai-nlp-chatbot-v1.streamlit.app/) &nbsp;·&nbsp;
+[Ghost Hunter](https://shriyap1966.github.io/GhostHunter-Game/) &nbsp;·&nbsp;
+[Exploring Goa](https://exploring-goa-game.vercel.app/)
 
 </div>
 
----
+<br/>
 
-## 🏝️ Hacker House Goa 2026
+<img src="assets/h-more.svg" alt="03 More builds and experiments" width="100%"/>
 
-Projects built for the Hacker House Goa 2026 hackathon.
+| Project | What it is | |
+|:--|:--|:--|
+| 🧭 **CareerPilot AI** | Flask app that uses Gemini to score a PDF or DOCX resume against a target role, with skill gaps and practice questions | [code](https://github.com/ShriyaP1966/CareerPilot-AI) |
+| 🔍 **ML Fraud Detection** | Comparative study of Logistic Regression, KNN, Linear SVM and Decision Trees on two imbalanced fraud datasets | [code](https://github.com/ShriyaP1966/ML-Fraud-Detection-Optimization) |
+| ⛓️ **Sepolia Sentiment API** | AI × Blockchain experiment | [code](https://github.com/ShriyaP1966/sepolia-sentiment-api) |
+| 👻 **Ghost Hunter** | Canvas arcade game in plain JavaScript with procedural sound and mobile controls | [code](https://github.com/ShriyaP1966/GhostHunter-Game) · [play](https://shriyap1966.github.io/GhostHunter-Game/) |
+| 🌴 **Exploring Goa** | Browser game built for a Hacker House Goa task | [code](https://github.com/ShriyaP1966/ExploringGOA-game) · [play](https://exploring-goa-game.vercel.app/) |
+| ♛ **N-Queens Game** | Interactive N-Queens puzzle | [code](https://github.com/ShriyaP1966/NQueen-Game) |
+| ❓ **QuizApp** | Quiz application | [code](https://github.com/ShriyaP1966/QuizApp) |
 
-| Project | Description |
-|---|---|
-| [**STAKEOUT**](https://github.com/ShriyaP1966/STAKEOUT_HHGOA) | A scam oracle for crypto wallets. Victims report suspicious addresses for free, verified reporters stake to promote a report into a time-limited flag, and a flag is confirmed only when a verifier posts graph evidence that the wallet's behaviour matches a scam pattern. Any wallet or contract can call `getStatus(address)`. A hackathon project: testnet only, synthetic data only. Built with Solidity/Hardhat, a Next.js web app, and a Python/FastAPI/TigerGraph graph service. |
-| [**TigerGraph-task**](https://github.com/ShriyaP1966/TigerGraph-task) | An agentic fraud investigation system on TigerGraph. A LangGraph agent investigates the transaction graph and prior closed cases, requests more evidence when needed, recommends policy-compliant actions with cited evidence, and writes each case back to the graph as memory. Includes a Streamlit analyst dashboard. My role: UI, GraphRAG docs, demo and final fixes. |
-| [**ExploringGOA-game**](https://github.com/ShriyaP1966/ExploringGOA-game) | A voice-controlled, three-day adventure game set in Goa ([play it live](https://exploring-goa-game.vercel.app/)). Spoken commands go through a rule-based natural-language parser into a structured action pipeline and a game engine that validates each decision. Built with React, TypeScript and Vite. |
+<br/>
 
----
+<img src="assets/h-stack.svg" alt="04 Toolkit" width="100%"/>
 
-## 🧠 AI & Research Projects
+<img src="assets/stack.svg" alt="Toolkit: Python, TypeScript, JavaScript, scikit-learn, PyTorch, Transformers, Gemini, Groq, LangGraph, GraphRAG, FastAPI, Flask, Streamlit, React, Vite, Tailwind CSS, TigerGraph, NetworkX, Git, pytest, Render, Vercel" width="100%"/>
 
-| Project | Description |
-|---|---|
-| [**Multilingual LLM Safety Benchmark**](https://github.com/ShriyaP1966/multilingual-llm-safety-benchmark) | A reproducible framework that evaluates how LLMs respond to adversarial prompts in English, Hindi and Marathi, measuring prompt-injection resilience and cross-lingual safety behaviour. Python, FastAPI, React. |
-| [**ModelForge**](https://github.com/ShriyaP1966/ModelForge) | Explore how ML models evolve through reproducible experiments, visual lineage, dataset intelligence and interactive model evaluation. FastAPI, React, TypeScript, scikit-learn. ([Live demo](https://modelforge-frontend-sgbp.onrender.com)) |
-| [**CampusAI**](https://github.com/ShriyaP1966/CampusAI-NLP-Chatbot) | A university-information chatbot using text preprocessing, TF-IDF, Logistic Regression intent classification (72% accuracy), rule-based NER and knowledge-base retrieval, served through Streamlit. ([Live demo](https://campusai-nlp-chatbot-v1.streamlit.app/)) |
-| [**ML Fraud Detection**](https://github.com/ShriyaP1966/ML-Fraud-Detection-Optimization) | A comparative analysis of classical ML models for financial fraud detection across two imbalanced transaction datasets, covering preprocessing, outlier analysis, model evaluation and cross-dataset comparison. Jupyter Notebook. |
-| [**CareerPilot AI**](https://github.com/ShriyaP1966/CareerPilot-AI) | A resume-analysis platform built with Flask and the Gemini API. It reads PDF and DOCX resumes and produces ATS and role-match scores, skill gaps, interview-readiness feedback and recommendations for a target role. |
-| [**Sepolia Sentiment API**](https://github.com/ShriyaP1966/sepolia-sentiment-api) | A FastAPI sentiment-analysis REST API built on VADER that can optionally record each result on the Ethereum Sepolia testnet through a Solidity smart contract. Blockchain writes are API-key protected and rate limited. Includes a pytest suite, GitHub Actions CI and a Docker setup (v1.0.0). |
+<br/><br/>
 
----
-
-## 🎮 Games & Interactive Projects
-
-| Project | Description |
-|---|---|
-| [**N-Queens Game**](https://github.com/ShriyaP1966/NQueen-Game) | An interactive N-Queens game and backtracking algorithm visualizer with hints, conflict detection, solver statistics and variable board sizes. |
-| [**GhostHunter**](https://github.com/ShriyaP1966/GhostHunter-Game) | A ghost-hunting browser game built with HTML, CSS and JavaScript. |
-| [**QuizApp**](https://github.com/ShriyaP1966/QuizApp) | An interactive quiz platform with timed challenges, streaks, lifelines, statistics and performance tracking. |
-
----
-
-## 📂 Other Projects
-
-| Project | Description |
-|---|---|
-| [**chatbot-project**](https://github.com/ShriyaP1966/chatbot-project) | A simple rule-based chatbot with a chat UI and session memory, built with Python and Streamlit. |
-| [**DecisionTree-Classifier**](https://github.com/ShriyaP1966/DecisionTree-Classifier) | A Python decision-tree classifier project. |
-| [**resume-analyzer**](https://github.com/ShriyaP1966/resume-analyzer) | A Python resume-analysis project. |
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, TypeScript, JavaScript, Solidity, HTML, CSS
-- **AI / ML:** scikit-learn, pandas, TF-IDF / Logistic Regression, VADER, LangGraph, Google Gemini API, Jupyter
-- **Graph & Blockchain:** TigerGraph (GSQL, pyTigerGraph), Hardhat, Web3.py, Ethereum Sepolia testnet
-- **Backend:** FastAPI, Flask, SQLite
-- **Frontend & Apps:** React, Next.js, Vite, Tailwind CSS, Streamlit
-
----
-
-## 📊 GitHub Stats
+<img src="assets/h-city.svg" alt="05 My year in commits" width="100%"/>
 
 <div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShriyaP1966&theme=github_dark" alt="Shriya's GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShriyaP1966&theme=github_dark" alt="Shriya's top languages" />
-
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph of Shriya Patil" width="100%"/>
 </div>
 
----
+<br/>
 
-## 🔭 Currently Exploring
+<img src="assets/h-connect.svg" alt="06 Let's connect" width="100%"/>
 
-- Combining AI with blockchain, from on-chain records to wallet scam detection
-- Graph intelligence: agentic investigation over TigerGraph
-- Safety evaluation of large language models in multilingual and low-resource settings
+<p align="center">
+  Looking for an AI/ML intern, a research collaborator or a hackathon teammate?<br/>
+  Email me at <a href="mailto:shriyapatil1966@gmail.com"><b>shriyapatil1966@gmail.com</b></a> or open an issue on any repo above.
+</p>
 
----
-
-## 🤝 Connect
-
-- GitHub: [@ShriyaP1966](https://github.com/ShriyaP1966)
-- Feel free to open an issue or start a discussion on any of the repositories above.
+<img src="assets/footer.svg" alt="Build it. Test it. Then trust it." width="100%"/>
