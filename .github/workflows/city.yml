@@ -1,0 +1,32 @@
+name: Commit City
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # daily, 00:00 IST
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/gen_city.py
+      - .github/workflows/city.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate city
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/gen_city.py --login "${{ github.repository_owner }}" --out assets/city.svg
+      - name: Commit and push
+        run: |
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          git add assets/city.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh commit city"
+            git push
+          fi
